@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.southernsunrise.galleryapp-mergeDebugResources-37:/layout/gallery_grid_recycer_view_itemview.xml",
+        "source": "com.southernsunrise.galleryapp-main-40:/layout/gallery_grid_recycer_view_itemview.xml"
+    },
+    {
+        "merged": "com.southernsunrise.galleryapp-mergeDebugResources-37:/layout/activity_gallery_main.xml",
+        "source": "com.southernsunrise.galleryapp-main-40:/layout/activity_gallery_main.xml"
+    },
+    {
+        "merged": "com.southernsunrise.galleryapp-mergeDebugResources-37:/layout/fragment_image_viewer_image_container.xml",
+        "source": "com.southernsunrise.galleryapp-main-40:/layout/fragment_image_viewer_image_container.xml"
+    },
+    {
+        "merged": "com.southernsunrise.galleryapp-mergeDebugResources-37:/layout/fragment_image_viewer.xml",
+        "source": "com.southernsunrise.galleryapp-main-40:/layout/fragment_image_viewer.xml"
+    }
+]
